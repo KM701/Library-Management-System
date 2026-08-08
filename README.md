@@ -233,9 +233,7 @@ Possible future enhancements:
 
 ---
 
-# 👨‍💻 Author
 
-**Aradhya Awasthi**
 
 B.Tech Computer Science Engineering
 

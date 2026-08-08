@@ -1,0 +1,4 @@
+101|Mathematics|Aradhya|Number |1|1
+102|Data Structures|Seymour Lipschutz|DSA|10|1
+1|jonny|abc|asgssh|7|1
+2|Disha|Aradhya|trust|8|1

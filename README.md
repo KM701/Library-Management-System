@@ -235,8 +235,6 @@ Possible future enhancements:
 
 
 
-B.Tech Computer Science Engineering
-
 ---
 
 # 📄 License
